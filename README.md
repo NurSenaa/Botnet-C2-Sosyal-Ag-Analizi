@@ -1,10 +1,5 @@
 # 🔍 Botnet C&C Altyapısının Sosyal Ağ Analizi Yöntemleriyle Tespiti
 
-> **Ders:** Sosyal Ağ Analizi  
-> **Öğretim Üyesi:** Dr. Öğr. Üyesi Özgür Tonkal  
-> **Üniversite:** Samsun Üniversitesi - Mühendislik Fakültesi - Yazılım Mühendisliği Bölümü  
-> **Tarih:** 16.05.2026
-
 ## 📋 Proje Özeti
 
 Bu çalışmada, botnet ağlarının komuta-kontrol (C&C) altyapısının **sosyal ağ analizi** yöntemleriyle tespit edilebilirliği araştırılmıştır. **CTU-13** veri setinin 6. senaryosu (DonBot ailesi) üzerinde uygulamalı analiz gerçekleştirilmiştir.

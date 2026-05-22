@@ -1,0 +1,11 @@
+CTU-13 Senaryo 6 (Capture-47) — DonBot
+
+İndirme bağlantısı:
+https://mcfp.felk.cvut.cz/publicDatasets/CTU-Malware-Capture-Botnet-47/capture20110816.binetflow.2format
+
+Senaryo: 6
+Dosya: capture20110817.binetflow
+
+Not: Veri seti akademik araştırma amacıyla kamuya açık olarak 
+Stratosphere Research Lab (Çek Teknik Üniversitesi) tarafından 
+yayımlanmıştır.
